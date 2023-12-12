@@ -1,4 +1,2 @@
 # Studio-Seabean
-Studio Seabean Main Repository
-
-This is where Studio Seabean will start.
+This is where Studio Seabean will start.  This is the main Studio Seabean Repo.
